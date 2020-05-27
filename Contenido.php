@@ -13,7 +13,7 @@
 <input name ="usuario" type="text" placeholder="Ingrese usuario"><br></br>
 <input name="contra" type="password" placeholder="Ingrese contra"><br></br>
 <input name="confirm_password" type="password" placeholder="Confirmar contra"><br></br>
-<input type="submit" value="Crear">
+<input type="submit" value="Crear" style="background-color:lightsteelblue;">
 </form>
 
 <?php
